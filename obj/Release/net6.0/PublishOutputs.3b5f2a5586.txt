@@ -1,0 +1,7 @@
+D:\kmogit\azurework\bin\Release\net6.0\publish\azurework.exe
+D:\kmogit\azurework\bin\Release\net6.0\publish\appsettings.Development.json
+D:\kmogit\azurework\bin\Release\net6.0\publish\appsettings.json
+D:\kmogit\azurework\bin\Release\net6.0\publish\azurework.dll
+D:\kmogit\azurework\bin\Release\net6.0\publish\azurework.deps.json
+D:\kmogit\azurework\bin\Release\net6.0\publish\azurework.runtimeconfig.json
+D:\kmogit\azurework\bin\Release\net6.0\publish\azurework.pdb

@@ -1,0 +1,2 @@
+D:\kmogit\azurework\bin\Debug\net6.0\azurework.exe
+D:\kmogit\azurework\bin\Debug\net6.0\azurework.dll
